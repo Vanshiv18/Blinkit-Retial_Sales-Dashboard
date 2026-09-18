@@ -7,7 +7,20 @@ An interactive Power BI dashboard analyzing sales performance, outlet characteri
 **[View the live interactive dashboard here](https://app.powerbi.com/view?r=eyJrIjoiODIwZmZlODctNDU3ZC00MDRlLTk2ODYtYWU0ZjJmMzJlOTNlIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)**
 
 ![Dashboard Preview](Blinkit_dashboard.png)
+"What This Dashboard Covers"
+## 📝 Executive Summary
 
+> A data-driven overview of sales performance, outlet distribution, and product trends derived from the Blinkit retail analytics dashboard.
+
+🎯 **Key Performance Indicators** — Total Sales (**1M**), Average Sales (**$141**), Number of Items (**8,523**), and Average Rating (**3.9**) give a quick snapshot of overall business performance and customer satisfaction.
+
+📊 **Sales & Product Trends** — The dashboard analyzes sales distribution across item types, fat content categories, outlet sizes, and outlet locations to identify major contributors to total sales, while also tracking outlet establishment trends over time to reveal business growth patterns.
+
+🏬 **Outlet Comparison** — Side-by-side comparisons across different outlet types surface variations in total sales, item counts, average sales value, and customer ratings — helping identify high-performing store formats and product categories.
+
+⚙️ **Technical Approach** — Built in **Power BI**, with data cleaned, transformed, and modeled, **DAX measures** powering the KPIs, and **interactive filters** letting users dynamically explore the data by outlet location, outlet size, and item type.
+
+✅ **Bottom Line** — The dashboard converts raw retail data into actionable insights that support data-driven decision-making and retail performance optimization.
 ## 📊 What This Dashboard Covers
 
 **Top-line KPIs**
